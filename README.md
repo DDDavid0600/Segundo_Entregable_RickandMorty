@@ -1,3 +1,6 @@
+# Proyecto Rick and Morty - Ejecución en Línea (Deploy)
+Para revisar y probar la aplicación de forma inmediata sin necesidad de instalar nada en su computadora, puede acceder al despliegue oficial en producción haciendo clic en el siguiente enlace: https://segundo-entregable-rickand-morty.vercel.app/
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
