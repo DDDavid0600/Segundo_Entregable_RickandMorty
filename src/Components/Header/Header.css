@@ -1,0 +1,9 @@
+.header{
+    display: flex;
+    flex-direction: column;    
+    align-items: center;
+    padding: 20px;
+    background-color: #b5e243;
+    height: 14vh;    
+    color: black;
+}

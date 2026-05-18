@@ -1,0 +1,12 @@
+.character-grid {
+  display: grid;
+  /* Mínimo a 280px. El max sigue siendo 1fr para que se adapte al ancho de la pantalla */
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); 
+  gap: 25px;
+  margin-top: 20px;
+  justify-items: center;
+  align-items: stretch; /* Obliga a que todas las tarjetas de una misma fila tengan exactamente la misma altura */
+}
+.grid-item{
+  width: 280px;
+}

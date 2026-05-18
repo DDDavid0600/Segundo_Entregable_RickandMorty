@@ -1,0 +1,17 @@
+.filter-container {
+  margin: 20px 0;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap; /*los elementos flexibles salten a la siguiente línea */
+  align-items: center;
+
+  .filter-select {
+    padding: 8px 12px;
+    border-radius: 8px;
+    border: 1px solid #e2e8f0;
+    background-color: #ffffff;
+    color: #334155;
+    outline: none;
+    font-size: 0.9rem;
+  }
+}
