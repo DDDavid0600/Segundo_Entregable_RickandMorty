@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import ListadoPersonajes from '../../components/ListadoPersonajes/ListadoPersonajes';
+import ListadoPersonajes from '../../Components/ListadoPersonajes/ListadoPersonajes';
 import './Home.css';
 
 const Home = () => {
